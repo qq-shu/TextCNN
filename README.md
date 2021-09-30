@@ -1,5 +1,8 @@
 # TextCNN
 
+TextCNN method is used to classify malicious code.
+
+
 ## data<br>
 
 * https://www.kaggle.com/c/malware-classification/
